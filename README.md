@@ -1,4 +1,4 @@
-# BSE Stock Predictor - Capstone Data Analytics Project
+# BSE Stock Predictor 
 
 A comprehensive stock prediction web application focused on the Indian Bombay Stock Exchange (BSE) using machine learning and deep learning algorithms.
 
