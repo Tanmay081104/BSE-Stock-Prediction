@@ -144,22 +144,6 @@ This project demonstrates:
 - **Software Engineering**: Production-ready web application
 - **Data Visualization**: Meaningful charts and dashboards
 
-## 📝 Future Enhancements
 
-- **Sentiment Analysis**: News and social media integration
-- **Portfolio Optimization**: Multi-stock portfolio recommendations
-- **Mobile App**: React Native mobile version
-- **Advanced Analytics**: Options pricing, derivatives prediction
-- **Real-time Alerts**: Price movement notifications
 
-## 🤝 Contributing
 
-This is a capstone project, but feedback and suggestions are welcome!
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
-**Built with ❤️ for Indian Stock Market Analysis**
